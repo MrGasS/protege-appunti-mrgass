@@ -35,4 +35,4 @@ ________________
 
 ________________
 <h3><a href="./02_creazione_ontologia.md">Passa al capitolo successivo</a></h3>
-<h3><a href="../index.md">Ritorna all'indice</a></h3>
+<h3><a href="../README.md">Ritorna all'indice</a></h3>

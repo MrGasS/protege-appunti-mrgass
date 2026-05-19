@@ -25,4 +25,4 @@ Spero che questi ragionamenti assai cervellotici siano chiari.<br>
 ________________
 <h3><a href="./10_ragionatore_catlog.md">Passa al capitolo successivo</a></h3>
 <h3><a href="./08_ragionatore_invers_relaz.md">Ritorna al capitolo precedente</a></h3>
-<h3><a href="../index.md">Ritorna all'indice</a></h3>
+<h3><a href="../README.md">Ritorna all'indice</a></h3>

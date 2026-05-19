@@ -30,4 +30,4 @@ Inoltre, dopo aver cliccato sull'icona col punto interrogativo, potremo vedere c
 ________________
 <h3><a href="./09_ragionatore_inf_clasprop.md">Passa al capitolo successivo</a></h3>
 <h3><a href="./07_ragionatore_inconsistenza.md">Ritorna al capitolo precedente</a></h3>
-<h3><a href="../index.md">Ritorna all'indice</a></h3>
+<h3><a href="../README.md">Ritorna all'indice</a></h3>

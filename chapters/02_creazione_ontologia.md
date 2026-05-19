@@ -11,4 +11,4 @@ Successivamente, definire l'IRI dell'ontologia cliccando sulla scheda <b>Active 
 ________________
 <h3><a href="./03_creazione_classi.md">Passa al capitolo successivo</a></h3>
 <h3><a href="./01_intro_owl_protege_setup.md">Ritorna al capitolo precedente</a></h3>
-<h3><a href="../index.md">Ritorna all'indice</a></h3>
+<h3><a href="../README.md">Ritorna all'indice</a></h3>

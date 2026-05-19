@@ -28,4 +28,4 @@ Complimenti, avete scovato un'inconsistenza nella vostra ontologia con l'aiuto d
 ________________
 <h3><a href="./08_ragionatore_invers_relaz.md">Passa al capitolo successivo</a></h3>
 <h3><a href="./06_collegare_individui.md">Ritorna al capitolo precedente</a></h3>
-<h3><a href="../index.md">Ritorna all'indice</a></h3>
+<h3><a href="../README.md">Ritorna all'indice</a></h3>
