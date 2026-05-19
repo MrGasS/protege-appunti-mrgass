@@ -34,5 +34,5 @@ ________________
 </ol>
 
 ________________
-<h3><a href="./02_creazione_ontologia.md">Passa al capitolo successivo</a></h3>
-<h3><a href="../index.md">Ritorna all'indice</a></h3>
+<h3><a href="./02_creazione_ontologia.html">Passa al capitolo successivo</a></h3>
+<h3><a href="../index.html">Ritorna all'indice</a></h3>
