@@ -1,6 +1,6 @@
 # 1. Breve introduzione all'OWL e installazione di Protégé
 
-### Ultimo aggiornamento del 17 Maggio 2026 alle ore 16:02
+### Ultimo aggiornamento del 19 Maggio 2026 alle ore 13:23
 
 ---
 <p>Protégé è un applicativo per gestire ontologie in formato OWL.<br>
@@ -27,11 +27,11 @@ Ricordiamo che un’ontologia è un modello digitale che rappresenta un dominio 
 </p>
 
 ________________
-### Per installare e utilizzare Proteégé:
-<ol>
-<li>Scaricare e installare l'ultima LTS di Java JDK (versione 25 al momento della scrittura) da https://www.oracle.com/it/java/technologies/downloads/#java25</li>
-<li>scaricare Protégé da https://protege.stanford.edu/</li>
-</ol>
+### Per installare e utilizzare Protégé:
+Scaricare Protégé da https://protege.stanford.edu/<br>
+
+Se si desidera scaricare il pacchetto universale per qualsiasi piattaforma (MacOS, Windows e Linux) sarà necessario installare il Java Development Kit.<br>
+Si consiglia scaricare e installare l'ultima LTS di JDK (versione 25 al momento della scrittura, maggio 2026) da https://www.oracle.com/it/java/technologies/downloads/#java25<br>
 
 ________________
 <h3><a href="./02_creazione_ontologia.md">Passa al capitolo successivo</a></h3>
