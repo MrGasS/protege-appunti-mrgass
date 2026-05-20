@@ -11,6 +11,7 @@
 8. [Il ragionatore (reasoner): inversione delle relazioni (proprietà inverse)](chapters/08_ragionatore_invers_relaz.md)
 9. [Il ragionatore (reasoner): inferire classi e proprietà](chapters/09_ragionatore_inf_clasprop.md)
 10. [Il ragionatore (reasoner): la catena logica (proprietà transitive)](chapters/10_ragionatore_catlog.md)
+11. [Disgiunzione (disjoint)](chapters/11_disgiunzione.md)
 
 <code>
  _________________________________________
@@ -21,7 +22,7 @@
  -----------------------------------------
         \   /
          \ /
-</code>
+</code><br>
 <picture>
    <img style="width:50%; height:auto;" src="pics/gatto_gallino.jpg" alt="gallino" />
 </picture>

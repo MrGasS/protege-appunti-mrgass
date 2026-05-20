@@ -1,6 +1,6 @@
 # 7. Il ragionatore (reasoner): testare l'ontologia e scoprirne le inconsistenze
 
-### Ultimo aggiornamento del 17 Maggio 2026 alle ore 16:24
+### Ultimo aggiornamento del 20 Maggio 2026 alle ore 12:03
 
 ---
 <p>
@@ -11,7 +11,7 @@ In Protégé disponiamo del <b>reasoner</b>, un motore di inferenza molto potent
 </ul>
 Cominciamo ad utilizzare il ragionatore per lo scopo più semplice, ovvero il primo della lista sovrastante.<br>
 Andiamo su <b>Entities</b> > <b>Individuals</b> > <code>MarioRossi</code>, poi, clicchiamo sull'ultima icona in corrispondenza di <code>haMatricola 123456</code> per editare il <b>Data property</b> legato a <code>MarioRossi</code>.<br>
-Assegnamo un <b>Value</b> <code>123456ciccio</code> al <b>Data Property</b> <code>haMatricola</code>, quindi confermiamo la scelta.
+Assegniamo un <b>Value</b> <code>123456ciccio</code> al <b>Data Property</b> <code>haMatricola</code>, quindi confermiamo la scelta.
 
 ![](../pics/7_1.png)<br>
 

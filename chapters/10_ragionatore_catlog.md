@@ -21,6 +21,6 @@ Dopo aver avviato HermiT vedremo immediatamente che, data la sua propedeuticità
 ![](../pics/10_2.png)
 </p>
 ________________
-<h3><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Passa al capitolo successivo</a></h3>
+<h3><a href="./11_disgiunzione.md">Passa al capitolo successivo</a></h3>
 <h3><a href="./09_ragionatore_inf_clasprop.md">Ritorna al capitolo precedente</a></h3>
 <h3><a href="../README.md">Ritorna all'indice</a></h3>
