@@ -25,7 +25,7 @@ Cominciamo col collegare l'individuo <code>MarioRossi</code> a un <b>object prop
 Adesso, passiamo all'inserimento del <b>Data Property</b> <code>haMatricola</code> per l'individuo <code>MarioRossi</code>:
 <ul>
 <li>clicchiamo sul tasto + vicino a <code>Data property assertions</code>;</li>
-<li>clicchiamo sul <b>Data property</b> <code>haMatricola</code> e, dato che al capitolo 4 abbiamo definito questo tipo di dato come <code>xsd:integer</code>, replichiamo la scelta con la tendina <code>Datatype</code>, infine, inseriamo una matricola <code>123456</code>.</li>
+<li>clicchiamo sul <b>Data property</b> <code>haMatricola</code> e, dato che al <a href="./04_creazione_proprieta.md">capitolo 4</a> abbiamo definito questo tipo di dato come <code>xsd:integer</code>, replichiamo la scelta con la tendina <code>Datatype</code>, infine, inseriamo una matricola <code>123456</code>.</li>
 
 ![](../pics/6_3.png)
 </ul>

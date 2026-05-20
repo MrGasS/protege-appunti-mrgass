@@ -12,6 +12,7 @@
 9. [Il ragionatore (reasoner): inferire classi e proprietà](chapters/09_ragionatore_inf_clasprop.md)
 10. [Il ragionatore (reasoner): la catena logica (proprietà transitive)](chapters/10_ragionatore_catlog.md)
 11. [Disgiunzione (disjoint)](chapters/11_disgiunzione.md)
+12. [Costruttori logici (restrizioni di proprietà): some, only, exactly, min, max](chapters/12_costr_logici.md)
 
 <code>
  _________________________________________

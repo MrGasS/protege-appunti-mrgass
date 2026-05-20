@@ -14,7 +14,7 @@ Andiamo su <b>Entities</b> > <b>Object properties</b> > clicchiamo col tasto des
 Clicchiamo sulla proprietà <code>segueCorso</code> e nel riquadro <b>Description</b> clicchiamo il + vicino a <b>Inverse of</b>, selezioniamo quindi la proprietà <code>seguitoDa</code>.
 ![](../pics/8_1.png)<br>
 
-Prima di avviare il reasoner come nel capitolo 7, spuntiamo l'opzione <b>Show Inferences</b> posta in basso a destra nella finestra principale di Protégé, poi avviamo HermiT.<br>
+Prima di avviare il reasoner come nel <a href="./07_ragionatore_inconsistenza.md">capitolo 7</a>, spuntiamo l'opzione <b>Show Inferences</b> posta in basso a destra nella finestra principale di Protégé, poi avviamo HermiT.<br>
 Se tutto è andato bene, vedremo una riga evidenziata in giallo nella scheda <b>Propeerty assertions</b> dell'individuo <b>Analisi1</b> che riporta <code>seguitoDa MarioRossi</code>: il ragionatore sta funzionando correttamente e sta inferendo una nuova informazione.
 ![](../pics/8_2.png)<br>
 

@@ -23,6 +23,6 @@ Come da schermata, verremo subito avvertiti dell'inconsistenza della nostra onto
 ![](../pics/11_4.png)<br>
 </p>
 ________________
-<h3><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Passa al capitolo successivo</a></h3>
+<h3><a href="./12_costr_logici.md">Passa al capitolo successivo</a></h3>
 <h3><a href="./10_ragionatore_catlog.md">Ritorna al capitolo precedente</a></h3>
 <h3><a href="../README.md">Ritorna all'indice</a></h3>
