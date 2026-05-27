@@ -7,7 +7,7 @@
 4. [Creazione delle proprietà (relazioni e attributi)](chapters/04_creazione_proprieta.md)
 5. [Popolare l'Ontologia (individui)](chapters/05_popolare_ontologia.md)
 6. [Collegare gli individui a object e data properties](chapters/06_collegare_individui.md)
-7. [Il ragionatore (reasoner): testare l'ontologia e scoprirne le inconsistenze](chapters/07_ragionatore_incaonsistenza.md)
+7. [Il ragionatore (reasoner): testare l'ontologia e scoprirne le inconsistenze](chapters/07_ragionatore_inconsistenza.md)
 8. [Il ragionatore (reasoner): inversione delle relazioni (proprietà inverse)](chapters/08_ragionatore_invers_relaz.md)
 9. [Il ragionatore (reasoner): inferire classi e proprietà](chapters/09_ragionatore_inf_clasprop.md)
 10. [Il ragionatore (reasoner): la catena logica (proprietà transitive)](chapters/10_ragionatore_catlog.md)
